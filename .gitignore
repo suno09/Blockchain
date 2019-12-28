@@ -2,3 +2,4 @@
 modules.xml
 .idea/*
 *.ipr
+out/
